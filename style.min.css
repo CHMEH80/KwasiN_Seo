@@ -266,9 +266,9 @@ a:hover {
 
 /* Correction des couleurs des lien en bas de page */
 
-.row a{
+/* .row a{
     color: #1C1C1C !important;
-}
+} */
 .black{
     color: #1C1C1C !important;
 }
@@ -794,7 +794,8 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    /* background-color: #F3976C; */
+    background-color: #BA440D;
 }
 
 .tc-white {
