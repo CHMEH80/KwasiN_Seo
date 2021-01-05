@@ -267,7 +267,8 @@ a:hover {
 /* Correction des couleurs des lien en bas de page */
 
 .row a{
-    color: #1C1C1C !important;
+    /* color: #1C1C1C !important; */
+    color: white !important;
 }
 .black{
     color: #1C1C1C !important;
@@ -370,6 +371,18 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+
+blockquote p {
+    font-size: 2rem;
+}
+
+cite.darkgray {
+    color: #575757;
+    font-size: 1.2rem;
+}
+
+
+
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -786,7 +799,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 /*Cette couleur été déjà modifié sinon appliqué la couleur recommandée #2F3C6A*/
 
